@@ -1,0 +1,10 @@
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\obj\Debug\ShadowLab.csprojAssemblyReference.cache
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\obj\Debug\ShadowLab.Form1.resources
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\obj\Debug\ShadowLab.Properties.Resources.resources
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\obj\Debug\ShadowLab.csproj.GenerateResource.cache
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\obj\Debug\ShadowLab.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\bin\Debug\ShadowLab.exe.config
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\bin\Debug\ShadowLab.exe
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\bin\Debug\ShadowLab.pdb
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\obj\Debug\ShadowLab.exe
+C:\Users\bogdan\source\repos\ShadowLab\ShadowLab\obj\Debug\ShadowLab.pdb

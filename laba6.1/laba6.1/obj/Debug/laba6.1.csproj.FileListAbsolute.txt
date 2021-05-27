@@ -1,0 +1,10 @@
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\obj\Debug\laba6.1.csprojAssemblyReference.cache
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\obj\Debug\laba6._1.Properties.Resources.resources
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\obj\Debug\laba6.1.csproj.GenerateResource.cache
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\obj\Debug\laba6.1.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\bin\Debug\laba6.1.exe.config
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\bin\Debug\laba6.1.exe
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\bin\Debug\laba6.1.pdb
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\obj\Debug\laba6._1.Form1.resources
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\obj\Debug\laba6.1.exe
+C:\Users\bogdan\source\repos\laba6.1\laba6.1\obj\Debug\laba6.1.pdb
